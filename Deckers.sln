@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Trensalore", "Trensalore\Trensalore.vcxproj", "{A4DD533B-FEBB-42C1-B0B5-52A2BD71383B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WakeMeUp", "WakeMeUp\WakeMeUp.vcxproj", "{CA6D8A6D-4808-4815-95EF-ADDF1A152EC7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CompoundInterest", "CompoundInterest\CompoundInterest.vcxproj", "{092225A6-FEA0-4F32-A79E-718F173447DC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NetPrice", "NetPrice\NetPrice.vcxproj", "{692285CA-132E-4176-9599-94308B7DA327}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Payroll", "Payroll\Payroll.vcxproj", "{E4C204FA-C410-4DB5-8AEC-D2982AD74362}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4DD533B-FEBB-42C1-B0B5-52A2BD71383B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A4DD533B-FEBB-42C1-B0B5-52A2BD71383B}.Debug|Win32.Build.0 = Debug|Win32
+		{A4DD533B-FEBB-42C1-B0B5-52A2BD71383B}.Release|Win32.ActiveCfg = Release|Win32
+		{A4DD533B-FEBB-42C1-B0B5-52A2BD71383B}.Release|Win32.Build.0 = Release|Win32
+		{CA6D8A6D-4808-4815-95EF-ADDF1A152EC7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CA6D8A6D-4808-4815-95EF-ADDF1A152EC7}.Debug|Win32.Build.0 = Debug|Win32
+		{CA6D8A6D-4808-4815-95EF-ADDF1A152EC7}.Release|Win32.ActiveCfg = Release|Win32
+		{CA6D8A6D-4808-4815-95EF-ADDF1A152EC7}.Release|Win32.Build.0 = Release|Win32
+		{092225A6-FEA0-4F32-A79E-718F173447DC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{092225A6-FEA0-4F32-A79E-718F173447DC}.Debug|Win32.Build.0 = Debug|Win32
+		{092225A6-FEA0-4F32-A79E-718F173447DC}.Release|Win32.ActiveCfg = Release|Win32
+		{092225A6-FEA0-4F32-A79E-718F173447DC}.Release|Win32.Build.0 = Release|Win32
+		{692285CA-132E-4176-9599-94308B7DA327}.Debug|Win32.ActiveCfg = Debug|Win32
+		{692285CA-132E-4176-9599-94308B7DA327}.Debug|Win32.Build.0 = Debug|Win32
+		{692285CA-132E-4176-9599-94308B7DA327}.Release|Win32.ActiveCfg = Release|Win32
+		{692285CA-132E-4176-9599-94308B7DA327}.Release|Win32.Build.0 = Release|Win32
+		{E4C204FA-C410-4DB5-8AEC-D2982AD74362}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E4C204FA-C410-4DB5-8AEC-D2982AD74362}.Debug|Win32.Build.0 = Debug|Win32
+		{E4C204FA-C410-4DB5-8AEC-D2982AD74362}.Release|Win32.ActiveCfg = Release|Win32
+		{E4C204FA-C410-4DB5-8AEC-D2982AD74362}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
